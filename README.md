@@ -1,1 +1,1 @@
-# -syntax-indentation-dotnet
+# syntax-indentation-dotnet

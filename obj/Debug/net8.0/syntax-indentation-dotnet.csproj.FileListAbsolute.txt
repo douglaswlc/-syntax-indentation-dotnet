@@ -1,0 +1,15 @@
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/bin/Debug/net8.0/syntax-indentation-dotnet
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/bin/Debug/net8.0/syntax-indentation-dotnet.deps.json
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/bin/Debug/net8.0/syntax-indentation-dotnet.runtimeconfig.json
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/bin/Debug/net8.0/syntax-indentation-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/bin/Debug/net8.0/syntax-indentation-dotnet.pdb
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.AssemblyInfoInputs.cache
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.AssemblyInfo.cs
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.csproj.CoreCompileInputs.cache
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.sourcelink.json
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/refint/syntax-indentation-dotnet.dll
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.pdb
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/syntax-indentation-dotnet.genruntimeconfig.cache
+/Users/douglaswillian/Documents/Estudos/syntax-indentation-dotnet/obj/Debug/net8.0/ref/syntax-indentation-dotnet.dll
